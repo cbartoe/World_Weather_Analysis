@@ -132,5 +132,5 @@ dmypy.json
 
 #adding config.py and practice sections
 config.py
-APU_practice.ipynb
+API_practice.ipynb
 random_numbers.ipynb
